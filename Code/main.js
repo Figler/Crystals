@@ -9,7 +9,8 @@ function addImage(a) {
  t.draggable=!1,
  t.ondragstart=function(){return!1},
  main.appendChild(t),
- Math.random()>=.85?(t.src="Pictures/Gold.png",altSound.play()):(t.src="Pictures/Regular.png",sound.play())}var sound=new Howl({src:["Sound/Courier.ogg"]}),
- altSound=new Howl({src:["Sound/Attack.ogg"]}),
+ Math.random()>=.85?(t.src="Pictures/Gold.png",altSound.play()):(t.src="Pictures/Regular.png",
+ sound.play())}var sound=new Howl({src:["./Sound/Courier.ogg"]}),
+ altSound=new Howl({src:["./Sound/Attack.ogg"]}),
  main=document.getElementById("main");
  main.addEventListener("click",addImage);
