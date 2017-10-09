@@ -3,7 +3,7 @@ This is a website inspired by the /r/Hearthstone community. This in in particula
 
 Other websites used for inspiration.
 * [Grim Patron](http://everyonegetinhere.com)
-* [Twilight Elder] (http://doyouhearitscall.com/)
+* [Twilight Elder](http://doyouhearitscall.com/)
 * [Babbling Book](http://www.youwannacastaspell.com)
 * [Drakanoid Operative](http://www.secretagentcomingthrough.com)
-* [Patches the Pirate] (https://iminchargenow.com/)
+* [Patches the Pirate](https://iminchargenow.com/)
